@@ -1,4 +1,5 @@
-1 open figure scrip.lua
+1 open figure script.lua
 2 copy 
 3 go to executor 
-4 paste5 enjoy 
+4 paste
+5 enjoy 
